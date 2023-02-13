@@ -1,0 +1,54 @@
+nav.navbar {
+    background-color: #7354A0;
+}
+
+a.navbar-brand {
+    color: #fff;
+    font-weight: 600;
+    font-size: 21px;
+    width: 100%;
+    text-align: center;
+}
+
+a.navbar-brand:hover,
+.addButton:hover {
+    color: #fff !important;
+}
+
+.addButton {
+    background-color: #7354A0 !important;
+    color: #fff !important;
+    padding: 12px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    font-size: 16px;
+    border-radius: 15px;
+}
+
+.addButton:hover {
+    background-color: #7354A0 !important;
+}
+
+table.table thead {
+    background-color: #5b5454;
+}
+
+.edit {
+    background-color: #060047 !important;
+    color: #fff !important;
+    border: 0px !important;
+}
+
+.edit:hover {
+    background-color: #08024da8 !important;
+}
+
+.delete {
+    background-color: red !important;
+}
+
+.delete:hover {
+    background-color: rgb(204, 8, 8) !important;
+}
